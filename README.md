@@ -1,6 +1,6 @@
 # R-Ladies Website
 
-Project to migrate all Wordpress R-Ladies Website to a Blogdown GitHub hosted version.
+Project to migrate all Wordpress R-Ladies Website to a [Blogdown](https://bookdown.org/yihui/blogdown/) GitHub hosted version.
 
 It's about time. 🚀
 
@@ -52,6 +52,19 @@ Calendar with *all* world-wide R-Ladies events. Each event should link to the or
 
 Social Media of every chapter and global accounts. There's not only Meetup and Twitter, chapters are also using Facebook, GitHub, Slack & Periscope.
 
+## Colors & Typography
+
+### Colors
+
+- #88398A
+- #562457
+- #181818
+- #D3D3D3
+- #FFFFFF
+
+## Typography
+
+[Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
 ## Contribute
 
