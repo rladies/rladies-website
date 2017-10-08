@@ -13,6 +13,9 @@ It's about time. 🚀
 	- [Directory](#directory)
 	- [Events](#events)
 	- [Social Media](#social-media)
+- [Colors & Typography](#colors-typography)
+	- [Colors](#colors)
+	- [Typography](#typography)
 - [Contribute](#contribute)
 
 <!-- /TOC -->
@@ -62,7 +65,7 @@ Social Media of every chapter and global accounts. There's not only Meetup and T
 - #D3D3D3
 - #FFFFFF
 
-## Typography
+### Typography
 
 [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
