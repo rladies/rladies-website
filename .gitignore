@@ -47,6 +47,7 @@ Temporary Items
 
 # RStudio files
 .Rproj.user/
+*.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -85,3 +86,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/r,macos,windows
+.Rproj.user
