@@ -8,7 +8,9 @@ There's no need to be an expert on Blogdown / Webpage building to contribute to 
 
 - [Code of Conduct](#code-of-conduct)
 - [Q&A](#qa)
-- [Install the project](#install-the-project)
+- [Ready to contribute?](#ready-to-contribute)
+	- [Report a bug](#report-a-bug)
+	- [Install the project](#install-the-project)
 
 <!-- /TOC -->
 
@@ -22,4 +24,16 @@ The faster way to have a conversation about the webpage is in the #website Slack
 
 If you are not in the Slack channel and don't expect to be, open an issue with the label _question_.
 
-## Install the project
+## Ready to contribute?
+
+Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
+
+Before creating any issue, check the list as you might find out that you don't need to create one.
+
+If you find a *Closed* issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
+
+### Report a bug
+
+
+
+### Install the project

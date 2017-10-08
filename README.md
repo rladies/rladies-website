@@ -16,6 +16,7 @@ It's about time. 🚀
 - [Colors & Typography](#colors-typography)
 	- [Colors](#colors)
 	- [Typography](#typography)
+	- [Theme](#theme)
 - [Contribute](#contribute)
 
 <!-- /TOC -->
@@ -55,7 +56,7 @@ Calendar with *all* world-wide R-Ladies events. Each event should link to the or
 
 Social Media of every chapter and global accounts. There's not only Meetup and Twitter, chapters are also using Facebook, GitHub, Slack & Periscope.
 
-## Colors & Typography
+## Colors & Typography & Theme
 
 ### Colors
 
@@ -69,6 +70,10 @@ Social Media of every chapter and global accounts. There's not only Meetup and T
 
 [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
+### Theme
+
+The theme used for the Blogdown site is Kakawait's [Tranquilpeak](https://github.com/kakawait/hugo-tranquilpeak-theme) theme.
+
 ## Contribute
 
-You are more than welcome to contribute to this project. In order to do that don't forget to read the [contributing](CONTRIBUTE.md) rules and the [COC](CODE_OF_CONDUCT.md) so we all can get along.
+You are more than welcome to contribute to this project. In order to do that don't forget to read the [contributing](CONTRIBUTING.md) rules and the [COC](CODE_OF_CONDUCT.md) so we all can get along.
