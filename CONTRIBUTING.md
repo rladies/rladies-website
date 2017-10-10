@@ -94,14 +94,14 @@ You can start by looking through these beginner and help-wanted issues:
 - Limit the first line to 72 characters or less
 - Reference issues and pull requests liberally after the first line
 - Consider starting the commit message with an applicable emoji:
-	- 🎨 :art: when improving the format/structure of the code
-	- 🐎 :racehorse: when improving performance
-	- 📝 :memo: when writing docs
-	- 🐛 :bug: when fixing a bug
-	- 🔥 :fire: when removing code or files
-	- 🔒 :lock: when dealing with security
-	- ⬆️ :arrow_up: when upgrading dependencies
-	- ⬇️ :arrow_down: when downgrading dependencies
+	- 🎨 `:art:` when improving the format/structure of the code
+	- 🐎 `:racehorse:` when improving performance
+	- 📝 `:memo:` when writing docs
+	- 🐛 `:bug:` when fixing a bug
+	- 🔥 `:fire:` when removing code or files
+	- 🔒 `:lock:` when dealing with security
+	- ⬆️ `:arrow_up:` when upgrading dependencies
+	- ⬇️ `:arrow_down:` when downgrading dependencies
 
 
 *This guide is an adaptation of the Atom's [CONTRIBUTING](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) guide, thank you guysh❤️*
