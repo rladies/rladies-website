@@ -81,6 +81,14 @@ You can start by looking through these beginner and help-wanted issues:
 
 ### Install the project
 
+Clone
+SSH `$ git clone git@github.com:rladies/rladies-website.git`
+HTTPS `$ git clone https://github.com/rladies/rladies-website.git`
+or fork the project.
+
+Once in your local environment, and if you are working with RStudio, create an RStudio project in the folder because the file `.RProj` is included in the .gitignore file, therefore it is not uploaded to the project to avoid certain incompatibilities.
+
+Set the folder `website` as working directory and start *blogdowning*!
 
 ### Pull Requests
 
