@@ -92,6 +92,7 @@ Set the folder `website` as working directory and start *blogdowning*!
 
 ### Pull Requests
 
+- Submit your branch, do not develop in master.
 - Fill in the required [template](.github/PULL_REQUEST_TEMPLATE.md)
 - Do not include issue numbers in the PR title
 
