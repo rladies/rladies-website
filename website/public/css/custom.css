@@ -1,0 +1,14 @@
+/* SIDEBAR */
+
+#sidebar .sidebar-profile .sidebar-profile-name {
+  color: #88398A;
+}
+
+#sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link {
+  color: #88398A;
+}
+
+#sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link:active, 
+#sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link:hover {
+  color: #562457;
+}
