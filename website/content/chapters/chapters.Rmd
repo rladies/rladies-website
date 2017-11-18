@@ -1,0 +1,19 @@
+---
+author: "Frida Gomam"
+categories: R
+date: '2015-07-23T21:13:14-05:00'
+tags:
+- R Markdown
+- plot
+- regression
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r cars}
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/www.rladies.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/chapters/chapters/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/blog/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/blog/vivamus-lacus-mauris/</loc>
+    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/service/service3/</loc>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/blog/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/chapters/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/service/service1/</loc>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/service/service4/</loc>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/service/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/tags/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/www.rladies.org/service/service2/</loc>
+  </url>
+  
+</urlset>

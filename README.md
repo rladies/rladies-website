@@ -66,7 +66,9 @@ Social Media of every chapter and global accounts. There's not only Meetup and T
 - #D3D3D3
 - #FFFFFF
 
-### Typography
+#[Palette in coolors.co](https://coolors.co/88398a-562457-181818-d3d3d3-ffffff)
+
+## Typography
 
 [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 

@@ -1,183 +1,72 @@
-# Tranquilpeak
-# Version : 0.4.1-BETA
-# Author : Thibaud Leprêtre
-
-baseurl = ""
+baseurl = "www.rladies.org"
 languageCode = "en-us"
-defaultContentLanguage = "en-us"
 title = "R-Ladies Global Website"
-theme = "hugo-tranquilpeak-theme"
-# disqusShortname = "hugo-tranquilpeak-theme"
-googleAnalytics = "UA-92289102-1"
-paginate = 7
-canonifyurls = true
-enableEmoji = true
-
-[permalinks]
-  post = "/:year/:month/:slug/"
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  archive = "archives"
-
-[author]
-  name = "R-Ladies Global"
-  bio = "**World-Wide Organization** to promote gender diversity in the R Community"
-  picture = "https://raw.githubusercontent.com/rladies/starter-kit/master/logo/R-LadiesGlobal_RBG_online_LogoOnly.png"
-  twitter = "rladiesglobal"
-  
-# Menu Configuration
-[[menu.main]]
-  weight = 1
-  identifier = "home"
-  name = "Home"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "/"
-[[menu.main]]
-  weight = 2
-  identifier = "blog"
-  name = "Blog"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/blog"
-[[menu.main]]
-  weight = 3
-  identifier = "directory"
-  name = "Speakers Directory"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-microphone\"></i>"
-  url = "/directory"
-[[menu.main]]
-  weight = 4
-  identifier = "events"
-  name = "Events"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-calendar\"></i>"
-  url = "/events"
-  [[menu.main]]
-  weight = 4
-  identifier = "sm"
-  name = "Social Media"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-share-alt\"></i>"
-  url = "/social-media"
-[[menu.main]]
-  weight = 5
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
-
-[[menu.links]]
-  weight = 1
-  identifier = "twitter"
-  name = "Twitter"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
-  url = "https://twitter.com/rladiesglobal"
-  [[menu.links]]
-  weight = 1
-  identifier = "instagram"
-  name = "Instagram"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-instagram\"></i>"
-  url = "https://instagram.com/rladiesglobal"
-[[menu.links]]
-  weight = 1
-  identifier = "github"
-  name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/rladies"
+theme = "hugo-initio"
+publishDir = "docs"
 
 [params]
-  # Ignore certain files
-  ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-  # Customize date format use to render blog post date, categories and other
-  # You must use date format used by Go Time package https://golang.org/pkg/time/
-  # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
-  # Default format is: January 2, 2006 
-  # dateFormat = "2 January 2006"
+    name = "R-Ladies Global"
+    description = "World-Wide Organization to promote gender diversity in the R Community"
+    email = "info@rladies.org"
+    # phone = "+234 23 9873237"
+    # address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    year = 2012
+    background = ""
+    favicon = "https://raw.githubusercontent.com/rladies/starter-kit/master/logo/R-LadiesGlobal_RBG_online_LogoOnly.svg"
+    DateForm = "January 2, 2006"
 
-  # Global keywords configuration. Following keywords will be add to every pages
-  # keywords = ["development", "next-gen"]
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownload = true
+    showClients = true
 
-  # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
-  clearReading = true
+[[menu.main]]
+    weight = 1
+    identifier = "home"
+    name = "Home"
+    url = "/"
+[[menu.main]]
+    weight = 2
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog"
 
-  # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo". 
-  # If false it will flat categories.
-  hierarchicalCategories = false
+[params.disqus]
+    #site = "hugo-initio-site.disqus.com"
 
-  description = "R-Ladies Global Website"
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
 
-  # Customization
-  # Define the behavior of the sidebar
-  # 1: Display extra large sidebar on extra large screen, large sidebar on large screen,
-  #    medium sidebar on medium screen and header bar on small screen and
-  # extra large sidebar is swiped on extra large screen and large sidebar on all lower screen (default)
-  # 2: Display large sidebar on large screen, medium sidebar on medium screen and
-  #    header bar on small screen and large sidebar is swiped
-  # 3: Display medium sidebar on large and medium screen and header bar on small screen and
-  #    medium sidebar is swiped
-  # 4: Display header bar on all screens, extra large sidebar is swiped on extra large screen and
-  #    large sidebar is swiped on all lower screens
-  # 5: Display header bar on all screens and large sidebar is swiped on large screen
-  # 6: Display header bar on all screens and medium sidebar is swiped
-  sidebarBehavior = 1
+[params.google.analytics]
+    trackerID = "UA-92289102-1"
 
-  # Your blog cover picture. I STRONGLY recommend you to use a CDN to speed up loading of pages.
-  # There is many free CDN like Cloudinary or you can also use indirectly
-  # by using services like Google Photos.
-  # Current image is on AWS S3 and delivered by AWS CloudFront.
-  # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
-  # and use relative url : `your-image.png`
-  # coverImage = "cover.jpg"
-
-  # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
-  imageGallery = false
-
-  # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
-  thumbnailImage = true
-  # Display thumbnail image at the right of title in index pages (`right`, `left` or `bottom`)
-  # Set this value to `right` if you have old posts to keep the old style on them
-  # and define `thumbnailImagePosition` on a post to overwrite this setting
-  thumbnailImagePosition = "bottom"
-  # Automatically select the cover image or the first photo from the gallery of a post if there is no thumbnail image as the thumbnail image
-  # Set this value to `true` if you have old posts that use the cover image or the first photo as the thumbnail image
-  # and set `autoThumbnailImage` to `false` on a post to overwrite this setting
-  autoThumbnailImage = true
-
-  # Your favicon path, default is "/favicon.png"
-  # favicon = "/favicon.png"
-
-  # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
-  # they have to be referred from static root. Example
-  customCSS = ["css/custom.css"]
-
-  # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
-  # they have to be referred from static root. Example
-  # customJS = ["js/foo.js"]
-
-  # Sharing options
-  # Comment and uncomment to enable or disable sharing options
-  # If you wanna add a sharing option, read user documentation :
-  # Tranquilpeak configuration > Theme configuration > sharing-options
-  [[params.sharingOptions]]
-    name = "Facebook"
-    icon = "fa-facebook-official"
-    url = "https://www.facebook.com/sharer/sharer.php?u=%s"
-
-  [[params.sharingOptions]]
-    name = "Twitter"
-    icon = "fa-twitter"
-    url = "https://twitter.com/intent/tweet?text=%s"
-
-  [[params.sharingOptions]]
-    name = "Google+"
-    icon = "fa-google-plus"
-    url = "https://plus.google.com/share?url=%s"
-
-  [params.header.rightLink]
-    class = ""
-    icon = ""
-    url = "/#about"
-
-  # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
-  # [params.footer]
-  #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
-
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/rladiesglobal"
+    icon = "fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/rladiesglobal"
+    icon = "fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "github"
+	url = "https://github.com/rladies"
+    icon = "fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:info@rladies.org"
+    icon = "fa-envelope"
+    footer = false
+    sharethis = true
+    network = "email"
