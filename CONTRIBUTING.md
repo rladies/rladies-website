@@ -113,4 +113,4 @@ Set the folder `website` as working directory and start *blogdowning*!
 	- ⬇️ `:arrow_down:` when downgrading dependencies
 
 
-*This guide is an adaptation of the Atom's [CONTRIBUTING](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) guide, thank you guysh❤️*
+*This guide is an adaptation of the Atom's [CONTRIBUTING](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) guide, thank you guys❤️*

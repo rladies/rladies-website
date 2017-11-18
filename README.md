@@ -74,7 +74,7 @@ Social Media of every chapter and global accounts. There's not only Meetup and T
 
 ### Theme
 
-The theme used for the Blogdown site is Kakawait's [Tranquilpeak](https://github.com/kakawait/hugo-tranquilpeak-theme) theme.
+The theme used for the Blogdown site is Kakawait's [Hugo Initio](https://themes.gohugo.io/theme/hugo-initio/) theme.
 
 ## Contribute
 
