@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on R-Ladies Global Website</title>
-    <link>/www.rladies.org/blog/</link>
-    <description>Recent content in Blogs on R-Ladies Global Website</description>
+    <title>Test on R-Ladies Global Website</title>
+    <link>/www.rladies.org/tags/test/</link>
+    <description>Recent content in Test on R-Ladies Global Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/www.rladies.org/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/www.rladies.org/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

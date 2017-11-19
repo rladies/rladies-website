@@ -10,10 +10,18 @@ tags:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
+
+library(httr)
+library(stringr)
+library(dplyr)
 ```
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
+```{r cars, include=FALSE}
+url <- 'https://raw.githubusercontent.com/rladies/starter-kit/master/Current-Chapters.md'
+r <- GET(url)
+
+# chapters <- content(r) %>%
+#  str_split('^#{2} ') %>%
+#  map()
+
 ```
