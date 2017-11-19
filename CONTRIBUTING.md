@@ -1,6 +1,6 @@
 # Contribute
 
-This webpage will be made entirely with [Blogdown](https://bookdown.org/yihui/blogdown/). This way we can use all Markdown files that are already in GitHub, like the list of Chapters, and we can all collaborate in this webpage.
+This webpage will be built entirely with [Blogdown](https://bookdown.org/yihui/blogdown/). This way we can use all Markdown files that are already in GitHub, like the list of Chapters, and we can all collaborate in this webpage.
 
 There's no need to be an expert on Blogdown / Webpage building to contribute to this project. Check out the list of issues and PR what you feel comfortable with.
 
@@ -25,7 +25,7 @@ This project and everyone participating in it is governed by the [R-Ladies Code 
 
 ## Q&A
 
-The faster way to have a conversation about the webpage is in the #website Slack Channel. Please, don't fill an issue if you only have a question or if it is not development problems.
+The faster way to have a conversation about the webpage is in the `#website` Slack Channel. Please, don't fill an issue if you only have a question or if it is not development problems.
 
 If you are not in the Slack channel and don't expect to be, open an issue with the label _question_.
 
@@ -103,7 +103,7 @@ Set the folder `website` as working directory and start *blogdowning*!
 - Limit the first line to 72 characters or less
 - Reference issues and pull requests liberally after the first line
 - Consider starting the commit message with an applicable emoji:
-    - 👾 `:space_invader:` to upload a new post
+    - 👾 `:space_invader:` when uploading a new post
 	- 🎨 `:art:` when improving the format/structure of the code
 	- 🐎 `:racehorse:` when improving performance
 	- 📝 `:memo:` when writing docs
