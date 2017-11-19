@@ -103,6 +103,7 @@ Set the folder `website` as working directory and start *blogdowning*!
 - Limit the first line to 72 characters or less
 - Reference issues and pull requests liberally after the first line
 - Consider starting the commit message with an applicable emoji:
+    - 👾 `:space_invader:` to upload a new post
 	- 🎨 `:art:` when improving the format/structure of the code
 	- 🐎 `:racehorse:` when improving performance
 	- 📝 `:memo:` when writing docs
