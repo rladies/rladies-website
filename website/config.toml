@@ -6,7 +6,7 @@ publishDir = "docs"
 
 [params]
     name = "R-Ladies Global"
-    description = "World-Wide Organization to promote gender diversity in the R Community"
+    description = "R-Ladies is a world-wide organization to promote gender diversity in the R Community"
     email = "info@rladies.org"
     # phone = "+234 23 9873237"
     # address = "234 Hidden Pond Road, Ashland City, TN 37015"
