@@ -4,7 +4,7 @@
 			<div class="col-md-3 widget">
 				<h3 class="widget-title">Contact</h3>
 				<div class="widget-body">
-					<p>{{ .Site.Params.phone }}<br>
+					<p>
 						<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a><br>
 						<br>
 						{{ .Site.Params.address }}
@@ -16,20 +16,23 @@
 				<h3 class="widget-title">Follow me</h3>
 				<div class="widget-body">
 					<p class="follow-me-icons">
-                        {{ range .Site.Params.social }}
-                            {{ if .footer }}
-                                <a href="{{ .url }}" target="_blank"><i class="fa {{ .icon }} fa-2"></i></a>
-                            {{ end }}
-                        {{ end }}
+              {{ range .Site.Params.social }}
+                  {{ if .footer }}
+                      <a href="{{ .url }}" target="_blank"><i class="fa {{ .icon }} fa-2"></i></a>
+                  {{ end }}
+              {{ end }}
 					</p>
 				</div>
 			</div>
 
 			<div class="col-md-3 widget">
-				<h3 class="widget-title">Text widget</h3>
+				<h3 class="widget-title">CoC tldr;</h3>
 				<div class="widget-body">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!</p>
+				  <ul>
+				    <li>Harassment-free experience</li>
+					  <li>Prioritizes marginalized people’s safety</li>
+				  </ul>
+					<a href="https://rladies.org/code-of-conduct/">Full CoC</a>
 				</div>
 			</div>
 

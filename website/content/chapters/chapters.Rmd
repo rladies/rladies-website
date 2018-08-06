@@ -14,57 +14,39 @@ knitr::opts_chunk$set(collapse = TRUE)
 library(purrr)
 library(dplyr)
 library(rvest)
+library(kableExtra)
 ```
 
 ```{r var_aux, include=FALSE}
 un_countries <- read_html('http://www.un.org/en/member-states/') %>%
   html_nodes('.member-state-name') %>%
   html_text()
-
-active <- 'https://img.shields.io/badge/status-active-blue.svg'
-sleeping <- 'https://img.shields.io/badge/status-active_quiet-blue.svg'
 ```
 
-```{r functions, include=FALSE}
-get_content <- function(x) {
-  if(grepl(x = x, pattern = '<img')) {
-    return(html_attr(x, "data-canonical-src")) 
-  } else {
-    return(html_text(x))
-  }
-}
-
-```
 
 ```{r parse, include=FALSE}
-url <- 'https://github.com/rladies/starter-kit/blob/master/Current-Chapters.md'
-r <- read_html(url) %>%
-    html_node('.file') %>%
-    html_nodes('a > img, h2, h3, strong, li')
-
-content <- tibble(
-    content = r  %>% map(get_content)
-  ) %>%
-  filter(!grepl(x = content, pattern = 'twitter')) %>%
-  filter(!grepl(x = content, pattern = 'facebook')) %>% 
-  filter(!grepl(x = content, pattern = 'email')) %>%
-  slice(5:n()) 
+csv <- 'https://raw.githubusercontent.com/rladies/starter-kit/master/Current-Chapters.csv'
+chapters <- readr::read_csv(csv) %>%
+  filter(Status == 'Active') %>%
+  select(Country, `State/Region`, City, Meetup) %>%
+  rename(MeetupLink = Meetup)
 
 ```
 
-```{r}
-# read the page where the list of chapters is located
-page <- read_html("https://github.com/rladies/starter-kit/blob/master/Current-Chapters.md")
-# Countries: get the countries of the chapters ----------------------------
-countries <- page %>% 
-  html_nodes("ul+ h2 , p+ h2") %>% 
-  html_text() 
-countries <- countries[!grepl("Remote", countries)]
-countries
-```
+```{r content, echo=F}
 
-```{r content}
-content
+render_link <- function(word, link) {
+   link <- paste0("[", word, "](", link, ")")
+   return(tibble(Meetup = link))
+}
+
+links <- bind_cols(chapters, map2_dfr(chapters$City, chapters$MeetupLink, render_link))
+links %>%
+  select(Country, Meetup) %>%
+  kable(align = "c") %>%
+  kable_styling(full_width = F) %>%
+  column_spec(1, bold = T) %>%
+  collapse_rows(columns = 1:2, valign = "top")
 ```
 
 If you are interested in starting an R-Ladies meetup group in your city, or would like more information about starting a meetup group, reach out at **info**[at]**rladies**[dot]**org**

@@ -12,14 +12,31 @@
     
     
     <item>
+      <title>Global Team</title>
+      <link>/www.rladies.org/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/www.rladies.org/team/</guid>
+      <description>Leadership Team Alice Daish, Hannah Frick, Erin LeDell, Gabriela de Queiroz and Claudia Vitolo
+WEB Bea Hernández R-Ladies Madrid Organizer
+ONBOARDING MASTER
+Laura Acion R-Ladies Buenos Aires Organizer
+SOCIAL MASTER
+Maëlle Salmon former R-Ladies Barcelona Organizer
+CONFERENCE ABSTRACT MASTER
+Jennifer Thompson R-Ladies Nashville Organizer
+BLOG MASTER Abigail Lebrecht – R-Ladies Remote Organizer
+DIRECTORY MASTER Sheila Saia and Page Piccinini – R-Ladies RTP Organizer and R-Ladies San Diego Organizer</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/www.rladies.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/www.rladies.org/about/</guid>
-      <description>R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.
-Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
-Fugit, laboriosam Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit.</description>
+      <description>R-LADIES IS A WORLDWIDE ORGANIZATION WHOSE MISSION IS TO PROMOTE GENDER DIVERSITY IN THE R COMMUNITY.
+The R community suffers from an underrepresentation of Women* in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educations, or users. As a diversity initiative, R-Ladies’ mission is to achieve proportionate representation by encouraging, inspiring, and empowering the minorities currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting the R enthusiasts who identify as an underrepresented minority to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.</description>
     </item>
     
     <item>
@@ -37,7 +54,7 @@ Fugit, laboriosam Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur 
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/www.rladies.org/chapters/chapters/</guid>
-      <description></description>
+      <description>Country  Meetup      Remote  NA    Argentina  Buenos Aires    Mendoza    Santa Fe    Santa Rosa    Australia  Adelaide    Melbourne    Belgium  Brussels    Leuven    Brazil  Belo Horizonte    Rio de Janeiro    Canada  London    Montréal    Costa Rica  San José    Chile  Santiago de Chile    Ecuador  Quito    France  Paris    Strasbourg    Georgia  Tbilisi    Germany  Berlin    Munich    Hungary  Budapest    India  Tiruchirappalli    Ireland  Dublin    Italy  Milan    Mexico  Mexico City    Morocco  Rabat    New Zealand  Auckland    Norway  Oslo    Peru  Lima    Poland  Warsaw    Portugal  Lisbon    South Africa  Cape Town    Johannesburg    Spain  Madrid    Barcelona    Taiwan  Taipei    Turkey  Istanbul    United Kingdom  Liverpool    London    Manchester    Uruguay  Montevideo    USA  Los Angeles    San Diego    San Francisco    Miami    Orlando    Sarasota    Chicago    Ames    Baltimore    Boston    East Lansing    Minneapolis/Saint Paul    New York City    RTP (Research Triangle Park)    Columbus    Portland    Philadelphia    Nashville    Austin    Dallas    Charlottesville    D.</description>
     </item>
     
     <item>

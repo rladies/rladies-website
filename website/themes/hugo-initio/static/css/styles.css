@@ -783,6 +783,9 @@ footer.entry-meta .meta-in {
   color: #D3D3D3;
   margin: 0 0 20px;
 }
+#footer .tldr {
+  display:block;
+}
 #underfooter {
   background: #191919;
   padding: 15px 0;

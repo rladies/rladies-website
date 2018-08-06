@@ -5,14 +5,13 @@ type = "about"
 weight = 10
 +++
 
-R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.
+**R-LADIES IS A WORLDWIDE ORGANIZATION WHOSE MISSION IS TO PROMOTE GENDER DIVERSITY IN THE R COMMUNITY.**
 
-![about](../images/mac.jpg)
+The R community suffers from an underrepresentation of Women* in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educations, or users.  As a diversity initiative, R-Ladies’ mission is to achieve proportionate representation by encouraging, inspiring, and empowering the minorities currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting the R enthusiasts who identify as an underrepresented minority to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.
 
-### Necessitatibus
+_*Please note all references to ‘W/women’ and ‘F/female’ within this document are used fully inclusively w.r.t trans women, genderqueer women, and non-binary people who are significantly female-identified._
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
 
-### Fugit, laboriosam
+![about](https://rladies.org/wp-content/uploads/2018/02/R-Ladies.png)
 
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+![video](https://sec.ch9.ms/ch9/9581/663c5ae7-fe9f-42d3-89ba-401da2459581/RLadiesGlobal_mid.mp4)

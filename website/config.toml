@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "R-Ladies Global Website"
 theme = "hugo-initio"
 publishDir = "docs"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     name = "R-Ladies Global"
@@ -10,7 +11,7 @@ publishDir = "docs"
     email = "info@rladies.org"
     # phone = "+234 23 9873237"
     # address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2012
+    year = 2017
     background = ""
     favicon = "https://raw.githubusercontent.com/rladies/starter-kit/master/logo/R-LadiesGlobal_RBG_online_LogoOnly.svg"
     DateForm = "January 2, 2006"
