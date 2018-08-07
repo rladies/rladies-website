@@ -38,7 +38,7 @@ If there's any other link of special interest add bellow.
 
 ### Blog
 
-TBD.
+[Blog](blog.rladies.org)
 
 ### Twitter
 
