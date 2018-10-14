@@ -1,68 +1,32 @@
 +++
-menu = "main"
-title = "Global Team"
+menu = "about"
+title = "Meet the Global Team"
 type = "about"
-weight = 9
+weight = 2
 +++
 
 
 ## Leadership Team
-Alice Daish, Hannah Frick, Erin LeDell, Gabriela de Queiroz and Claudia Vitolo
 
-![Alice Daish](https://rladies.org/wp-content/uploads/2017/12/IMG_7391-e1512485953409-150x150.jpg)
-
-![Hannah Frick](https://rladies.org/wp-content/uploads/2018/02/hannah-150x150.jpg)
-
-![Erin LeDell](https://rladies.org/wp-content/uploads/2018/02/erin-150x150.png)
-
-![Gabriela de Queiroz](https://rladies.org/wp-content/uploads/2018/01/gabi-150x150.png)
-
-![Claudia Vitolo](https://rladies.org/wp-content/uploads/2018/01/claudia-150x150.jpg)
+| Alice Daish | Hannah Frick | Erin LeDell | 
+|:-:|:-:|:-:|
+| ![Alice Daish](../docs/images/alicedaish.jpg) | ![Hannah Frick](../docs/images/hannahfrick.jpg) | ![Erin LeDell](../docs/images/erinledell.jpg) |
 
 
-## WEB
+| Gabriela de Queiroz | Claudia Vitolo |
+|:-:|:-:|
+| ![Gabriela de Queiroz](../docs/images/gabrieladequeiroz.jpg) | ![Claudia Vitolo](../docs/images/claudiavitolo.jpg) |
 
-Bea Hernández
-R-Ladies Madrid Organizer
+### Masters
 
- 
+| Bea Hernández | Laura Acion | Maëlle Salmon |
+|:-:|:-:|:-:|
+| Web development | On boarding | Social media |
+| R-Ladies Madrid Organizer | R-Ladies Buenos Aires Organizer | Former R-Ladies Barcelona Organizer |
+| ![Bea Hernández](../docs/images/beahernandez.jpg) | ![Laura Acion](../docs/images/lauraacion.jpg) | ![Maëlle Salmon](../docs/images/maellesalmon.jpg) |
 
-ONBOARDING MASTER
-
-Laura Acion
-R-Ladies Buenos Aires Organizer
-
- 
-
-SOCIAL MASTER
-
-Maëlle Salmon
-former R-Ladies Barcelona Organizer
-
- 
-
- 
-
-CONFERENCE ABSTRACT MASTER
-
-Jennifer Thompson 
-R-Ladies Nashville Organizer
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-BLOG MASTER
-Abigail Lebrecht – R-Ladies Remote Organizer
-
- 
-DIRECTORY MASTER
-Sheila Saia and Page Piccinini – R-Ladies RTP Organizer and R-Ladies San Diego Organizer
+| Jennifer Thompson | Abigail Lebrecht | Sheila Saia | Page Piccinini |
+|:-:|:-:|:-:|:-:|
+| Conference abstract | Blog | Directory | Directory |
+| R-Ladies Nashville Organizer | R-Ladies Remote Organizer | R-Ladies RTP Organizer | R-Ladies San Diego Organizer |
+| ![Gabriela de Queiroz](https://rladies.org/wp-content/uploads/2018/01/gabi-150x150.png) | ![Claudia Vitolo](https://rladies.org/wp-content/uploads/2018/01/claudia-150x150.jpg) | | |

@@ -35,6 +35,7 @@ render_link <- function(word, link) {
 links <- bind_cols(chapters, map2_dfr(chapters$City, chapters$MeetupLink, render_link))
 links %>%
   select(Country, Meetup) %>%
+  rename(City = Meetup) %>%
   kable(align = "c") %>%
   kable_styling(full_width = F) %>%
   column_spec(1, bold = T) %>%

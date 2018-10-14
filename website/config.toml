@@ -15,7 +15,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     background = ""
     favicon = "https://raw.githubusercontent.com/rladies/starter-kit/master/logo/R-LadiesGlobal_RBG_online_LogoOnly.svg"
     DateForm = "January 2, 2006"
-
     showSubheader = true
     showServices = true
     showRecentWorks = true
@@ -24,11 +23,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     weight = 1
-    identifier = "home"
-    name = "Home"
-    url = "/"
-[[menu.main]]
-    weight = 2
     identifier = "blog"
     name = "Blog"
     url = "https://blog.rladies.org"
@@ -66,7 +60,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     network = ""
 [[params.social]]
 	title = "email"
-	url = "info@rladies.org"
+	url = "mailto:info@rladies.org"
     icon = "far fa-envelope"
     footer = true
     sharethis = true

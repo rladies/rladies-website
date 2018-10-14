@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/www.rladies.org/about/</loc>
+  </url>
+  
+  <url>
     <loc>/www.rladies.org/team/</loc>
   </url>
   
   <url>
-    <loc>/www.rladies.org/about/</loc>
+    <loc>/www.rladies.org/coc/</loc>
   </url>
   
   <url>
     <loc>/www.rladies.org/chapters/chapters/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/www.rladies.org/coc/</loc>
   </url>
   
   <url>

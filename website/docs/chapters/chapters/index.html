@@ -31,7 +31,8 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="2">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="https://raw.githubusercontent.com/rladies/starter-kit/master/logo/R-LadiesGlobal_RBG_online_LogoWithText.png" alt="">
+		  <a href="/www.rladies.org"><img class="img-circle" src="https://raw.githubusercontent.com/rladies/starter-kit/master/logo/R-LadiesGlobal_RBG_online_LogoWithText.png" alt=""></a>
+			
 			<span class="title">R-Ladies Global</span>
 			<span class="tagline">World-Wide Organization to promote gender diversity in the R Community<br>
             </span>
@@ -55,22 +56,23 @@
             <ul class="nav navbar-nav">
                 
                 <li>
-                    <a href="/www.rladies.org/">Home</a>
-                </li>
-                
-                <li>
                     <a href="https://blog.rladies.org">Blog</a>
                 </li>
                 
-                <li>
-                    <a href="/www.rladies.org/team/">Global Team</a>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">About us <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        
+                        <li>
+                            <a href="/www.rladies.org/about/">Mission</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/www.rladies.org/team/">Meet the Global Team</a>
+                        </li>
+                        
+                    </ul>
                 </li>
-                
-                <li>
-                    <a href="/www.rladies.org/about/">About</a>
-                </li>
-                
-                
             </ul>
 
         </div>
@@ -106,7 +108,7 @@
 Country
 </th>
 <th style="text-align:center;">
-Meetup
+City
 </th>
 </tr>
 </thead>
@@ -558,8 +560,8 @@ USA
 <footer id="footer">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6 widget">
-				<h3 class="widget-title">Follow us</h3>
+			<div class="col-md-6 col-sm-6 widget">
+				<h3 class="widget-title">Contact us</h3>
 				<div class="widget-body">
 					<p class="follow-me-icons">
               
@@ -576,7 +578,7 @@ USA
                   
               
                   
-                      <a href="info@rladies.org" target="_blank"><i class="far fa-envelope fa-2"></i></a>
+                      <a href="mailto:info@rladies.org" target="_blank"><i class="far fa-envelope fa-2"></i></a>
                   
               
                   
@@ -587,7 +589,7 @@ USA
 				</div>
 			</div>
 
-			<div class="col-md-6 widget">
+			<div class="col-md-6 col-sm-6 widget">
 				<h3 class="widget-title">CoC</h3>
 				<div class="widget-body">
 				  <a href="https://rladies.org/coc/">Code of Conduct</a>
@@ -605,14 +607,14 @@ USA
 	<div class="container">
 		<div class="row">
 
-			<div class="col-md-6 widget">
+			<div class="col-md-6 col-sm-6 widget">
 				<div class="widget-body">
 					<p></p>
 				</div>
 			</div>
 
-			<div class="col-md-6 widget">
-				<div class="widget-body">
+			<div class="col-md-6 col-sm-6 widget">
+				<div>
 					<p class="text-right">
 						Copyright &copy; 2017, R-Ladies Global<br>
 						Design: <a href="http://www.gettemplate.com" rel="designer">Initio</a> - 
@@ -630,7 +632,6 @@ USA
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 <script src="/www.rladies.orgjs/template.js"></script>
-<script id="dsq-count-scr" src="///count.js" async></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

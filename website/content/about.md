@@ -1,8 +1,8 @@
 +++
-menu = "main"
-title = "About"
+menu = "about"
+title = "Mission"
 type = "about"
-weight = 10
+weight = 1
 +++
 
 **R-LADIES IS A WORLDWIDE ORGANIZATION WHOSE MISSION IS TO PROMOTE GENDER DIVERSITY IN THE R COMMUNITY.**

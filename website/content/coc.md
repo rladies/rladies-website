@@ -1,3 +1,10 @@
++++ 
+menu = "footer" 
+title = "Code of Conduct" 
+type = "about" 
+weight = 9 
++++ 
+
 ### Languages
 
 - [English](#english)
