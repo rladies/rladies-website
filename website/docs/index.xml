@@ -6,7 +6,7 @@
     <description>Recent content on R-Ladies Global Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/www.rladies.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,21 +40,22 @@ The R community suffers from an underrepresentation of Women* in every role and 
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>/www.rladies.org/blog/2017-11-19-hello-world/</link>
-      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/www.rladies.org/chapters/chapters/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/blog/2017-11-19-hello-world/</guid>
-      <description>This is a blog test</description>
+      <guid>/www.rladies.org/chapters/chapters/</guid>
+      <description>Country  Meetup      Remote  NA    Argentina  Buenos Aires    Mendoza    Santa Fe    Santa Rosa    Australia  Adelaide    Melbourne    Belgium  Brussels    Leuven    Brazil  Belo Horizonte    Rio de Janeiro    Canada  London    Montréal    Costa Rica  San José    Chile  Santiago de Chile    Ecuador  Quito    France  Paris    Strasbourg    Georgia  Tbilisi    Germany  Berlin    Munich    Hungary  Budapest    India  Tiruchirappalli    Ireland  Dublin    Italy  Milan    Mexico  Mexico City    Morocco  Rabat    New Zealand  Auckland    Norway  Oslo    Peru  Lima    Poland  Warsaw    Portugal  Lisbon    South Africa  Cape Town    Johannesburg    Spain  Madrid    Barcelona    Taiwan  Taipei    Turkey  Istanbul    United Kingdom  Liverpool    London    Manchester    Uruguay  Montevideo    USA  Los Angeles    San Diego    San Francisco    Miami    Orlando    Sarasota    Chicago    Ames    Baltimore    Boston    East Lansing    Minneapolis/Saint Paul    New York City    RTP (Research Triangle Park)    Columbus    Portland    Philadelphia    Nashville    Austin    Dallas    Charlottesville    D.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/www.rladies.org/chapters/chapters/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <link>/www.rladies.org/coc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/chapters/chapters/</guid>
-      <description>Country  Meetup      Remote  NA    Argentina  Buenos Aires    Mendoza    Santa Fe    Santa Rosa    Australia  Adelaide    Melbourne    Belgium  Brussels    Leuven    Brazil  Belo Horizonte    Rio de Janeiro    Canada  London    Montréal    Costa Rica  San José    Chile  Santiago de Chile    Ecuador  Quito    France  Paris    Strasbourg    Georgia  Tbilisi    Germany  Berlin    Munich    Hungary  Budapest    India  Tiruchirappalli    Ireland  Dublin    Italy  Milan    Mexico  Mexico City    Morocco  Rabat    New Zealand  Auckland    Norway  Oslo    Peru  Lima    Poland  Warsaw    Portugal  Lisbon    South Africa  Cape Town    Johannesburg    Spain  Madrid    Barcelona    Taiwan  Taipei    Turkey  Istanbul    United Kingdom  Liverpool    London    Manchester    Uruguay  Montevideo    USA  Los Angeles    San Diego    San Francisco    Miami    Orlando    Sarasota    Chicago    Ames    Baltimore    Boston    East Lansing    Minneapolis/Saint Paul    New York City    RTP (Research Triangle Park)    Columbus    Portland    Philadelphia    Nashville    Austin    Dallas    Charlottesville    D.</description>
+      <guid>/www.rladies.org/coc/</guid>
+      <description>Languages  English Spanish Portuguese  English R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
+This code of conduct applies to all R-Ladies spaces, including meetups, Twitter, Slack, mailing lists, both online and offline. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Global Leadership Team.</description>
     </item>
     
     <item>

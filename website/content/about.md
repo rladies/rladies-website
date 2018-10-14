@@ -14,4 +14,4 @@ _*Please note all references to ‘W/women’ and ‘F/female’ within this doc
 
 ![about](https://rladies.org/wp-content/uploads/2018/02/R-Ladies.png)
 
-![video](https://sec.ch9.ms/ch9/9581/663c5ae7-fe9f-42d3-89ba-401da2459581/RLadiesGlobal_mid.mp4)
+[video](https://sec.ch9.ms/ch9/9581/663c5ae7-fe9f-42d3-89ba-401da2459581/RLadiesGlobal_mid.mp4)

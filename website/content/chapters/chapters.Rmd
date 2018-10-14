@@ -1,11 +1,10 @@
 ---
-author: "Frida Gomam"
-categories: R
-date: '2015-07-23T21:13:14-05:00'
+author: "R-Ladies"
+categories: R-Ladies
+date: '`r format(Sys.Date(), "%Y-%m-%d")`'
 tags:
-- R Markdown
-- plot
-- regression
+- Chapters
+- R-Ladies
 ---
 
 ```{r setup, include=FALSE}
@@ -13,14 +12,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 library(purrr)
 library(dplyr)
-library(rvest)
 library(kableExtra)
-```
-
-```{r var_aux, include=FALSE}
-un_countries <- read_html('http://www.un.org/en/member-states/') %>%
-  html_nodes('.member-state-name') %>%
-  html_text()
 ```
 
 

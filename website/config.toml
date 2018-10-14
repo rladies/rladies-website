@@ -31,7 +31,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 2
     identifier = "blog"
     name = "Blog"
-    url = "/blog"
+    url = "https://blog.rladies.org"
 
 [params.disqus]
     #site = "hugo-initio-site.disqus.com"
@@ -46,28 +46,36 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[params.social]]
 	title = "twitter"
 	url = "https://twitter.com/rladiesglobal"
-    icon = "fa-twitter-square"
+    icon = "fab fa-twitter"
     footer = true
     sharethis = true
     network = "twitter"
 [[params.social]]
 	title = "instagram"
 	url = "https://www.instagram.com/rladiesglobal"
-    icon = "fa-instagram"
+    icon = "fab fa-instagram"
     footer = true
     sharethis = false
     network = ""
 [[params.social]]
 	title = "github"
 	url = "https://github.com/rladies"
-    icon = "fa-github"
+    icon = "fab fa-github"
     footer = true
     sharethis = false
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:info@rladies.org"
-    icon = "fa-envelope"
-    footer = false
+	url = "info@rladies.org"
+    icon = "far fa-envelope"
+    footer = true
     sharethis = true
     network = "email"
+[[params.social]]
+	title = "slack"
+  url = "https://rladies-community-slack.herokuapp.com/"
+    icon = "fab fa-slack"
+    footer = true
+    sharethis = false
+    network = ""
+

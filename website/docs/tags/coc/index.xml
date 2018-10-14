@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coc on R-Ladies Global Website</title>
+    <link>/www.rladies.org/tags/coc/</link>
+    <description>Recent content in Coc on R-Ladies Global Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/www.rladies.org/tags/coc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/www.rladies.org/coc/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/www.rladies.org/coc/</guid>
+      <description>[1] “-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.code of conduct applies to all R-Ladies spaces, including meetups, Twitter, Slack, mailing lists, both online and offline. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Global Leadership Team.R-Ladies spaces may have additional rules in place, which will be made clearly available to participants.</description>
+    </item>
+    
+  </channel>
+</rss>
