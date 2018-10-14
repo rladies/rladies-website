@@ -3,82 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/www.rladies.org/about/</loc>
+    <loc>/rladies-website/about/</loc>
   </url>
   
   <url>
-    <loc>/www.rladies.org/team/</loc>
+    <loc>/rladies-website/team/</loc>
   </url>
   
   <url>
-    <loc>/www.rladies.org/coc/</loc>
+    <loc>/rladies-website/coc/</loc>
   </url>
   
   <url>
-    <loc>/www.rladies.org/chapters/chapters/</loc>
+    <loc>/rladies-website/chapters/chapters/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/www.rladies.org/service/service3/</loc>
+    <loc>/rladies-website/service/service3/</loc>
   </url>
   
   <url>
-    <loc>/www.rladies.org/categories/</loc>
+    <loc>/rladies-website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/www.rladies.org/chapters/</loc>
-    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/www.rladies.org/tags/chapters/</loc>
+    <loc>/rladies-website/chapters/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/www.rladies.org/service/service1/</loc>
-  </url>
-  
-  <url>
-    <loc>/www.rladies.org/tags/r-ladies/</loc>
+    <loc>/rladies-website/tags/chapters/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/www.rladies.org/categories/r-ladies/</loc>
+    <loc>/rladies-website/service/service1/</loc>
+  </url>
+  
+  <url>
+    <loc>/rladies-website/tags/r-ladies/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/www.rladies.org/</loc>
+    <loc>/rladies-website/categories/r-ladies/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/www.rladies.org/service/service4/</loc>
-  </url>
-  
-  <url>
-    <loc>/www.rladies.org/service/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/www.rladies.org/tags/</loc>
+    <loc>/rladies-website/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/www.rladies.org/service/service2/</loc>
+    <loc>/rladies-website/service/service4/</loc>
+  </url>
+  
+  <url>
+    <loc>/rladies-website/service/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/rladies-website/tags/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/rladies-website/service/service2/</loc>
   </url>
   
 </urlset>

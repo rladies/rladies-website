@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on R-Ladies Global Website</title>
-    <link>/www.rladies.org/tags/</link>
+    <link>/rladies-website/tags/</link>
     <description>Recent content in Tags on R-Ladies Global Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/www.rladies.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/rladies-website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chapters</title>
-      <link>/www.rladies.org/tags/chapters/</link>
+      <link>/rladies-website/tags/chapters/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/tags/chapters/</guid>
+      <guid>/rladies-website/tags/chapters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Ladies</title>
-      <link>/www.rladies.org/tags/r-ladies/</link>
+      <link>/rladies-website/tags/r-ladies/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/tags/r-ladies/</guid>
+      <guid>/rladies-website/tags/r-ladies/</guid>
       <description></description>
     </item>
     

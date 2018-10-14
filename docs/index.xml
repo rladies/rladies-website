@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R-Ladies Global Website</title>
-    <link>/www.rladies.org/</link>
+    <link>/rladies-website/</link>
     <description>Recent content on R-Ladies Global Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/www.rladies.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/rladies-website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mission</title>
-      <link>/www.rladies.org/about/</link>
+      <link>/rladies-website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/about/</guid>
+      <guid>/rladies-website/about/</guid>
       <description>R-LADIES IS A WORLDWIDE ORGANIZATION WHOSE MISSION IS TO PROMOTE GENDER DIVERSITY IN THE R COMMUNITY.
 The R community suffers from an underrepresentation of Women* in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educations, or users. As a diversity initiative, R-Ladies’ mission is to achieve proportionate representation by encouraging, inspiring, and empowering the minorities currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting the R enthusiasts who identify as an underrepresented minority to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.</description>
     </item>
     
     <item>
       <title>Meet the Global Team</title>
-      <link>/www.rladies.org/team/</link>
+      <link>/rladies-website/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/team/</guid>
+      <guid>/rladies-website/team/</guid>
       <description> Leadership Team | Alice Daish | Hannah Frick | Erin LeDell | |:-:|:-:|:-:| | | | |
    Gabriela de Queiroz Claudia Vitolo          Masters    Bea Hernández Laura Acion Maëlle Salmon     Web development On boarding Social media   R-Ladies Madrid Organizer R-Ladies Buenos Aires Organizer Former R-Ladies Barcelona Organizer            Jennifer Thompson Abigail Lebrecht Sheila Saia Page Piccinini     Conference abstract Blog Directory Directory   R-Ladies Nashville Organizer R-Ladies Remote Organizer R-Ladies RTP Organizer R-Ladies San Diego Organizer          </description>
     </item>
     
     <item>
       <title>Code of Conduct</title>
-      <link>/www.rladies.org/coc/</link>
+      <link>/rladies-website/coc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/coc/</guid>
+      <guid>/rladies-website/coc/</guid>
       <description>Languages  English Spanish Portuguese  English R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 This code of conduct applies to all R-Ladies spaces, including meetups, Twitter, Slack, mailing lists, both online and offline. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Global Leadership Team.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/www.rladies.org/chapters/chapters/</link>
+      <link>/rladies-website/chapters/chapters/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/chapters/chapters/</guid>
+      <guid>/rladies-website/chapters/chapters/</guid>
       <description>Country  City      Remote  NA    Argentina  Buenos Aires    Mendoza    Santa Fe    Santa Rosa    Australia  Adelaide    Melbourne    Belgium  Brussels    Leuven    Brazil  Belo Horizonte    Rio de Janeiro    Canada  London    Montréal    Costa Rica  San José    Chile  Santiago de Chile    Ecuador  Quito    France  Paris    Strasbourg    Georgia  Tbilisi    Germany  Berlin    Munich    Hungary  Budapest    India  Tiruchirappalli    Ireland  Dublin    Italy  Milan    Mexico  Mexico City    Morocco  Rabat    New Zealand  Auckland    Norway  Oslo    Peru  Lima    Poland  Warsaw    Portugal  Lisbon    South Africa  Cape Town    Johannesburg    Spain  Madrid    Barcelona    Taiwan  Taipei    Turkey  Istanbul    United Kingdom  Liverpool    London    Manchester    Uruguay  Montevideo    USA  Los Angeles    San Diego    San Francisco    Miami    Orlando    Sarasota    Chicago    Ames    Baltimore    Boston    East Lansing    Minneapolis/Saint Paul    New York City    RTP (Research Triangle Park)    Columbus    Portland    Philadelphia    Nashville    Austin    Dallas    Charlottesville    D.</description>
     </item>
     
     <item>
       <title>Application development</title>
-      <link>/www.rladies.org/service/service3/</link>
+      <link>/rladies-website/service/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/service/service3/</guid>
+      <guid>/rladies-website/service/service3/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -63,10 +63,10 @@ This code of conduct applies to all R-Ladies spaces, including meetups, Twitter,
     
     <item>
       <title>Custom website design</title>
-      <link>/www.rladies.org/service/service1/</link>
+      <link>/rladies-website/service/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/service/service1/</guid>
+      <guid>/rladies-website/service/service1/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -74,10 +74,10 @@ This code of conduct applies to all R-Ladies spaces, including meetups, Twitter,
     
     <item>
       <title>SEO &amp; SEM services</title>
-      <link>/www.rladies.org/service/service4/</link>
+      <link>/rladies-website/service/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/service/service4/</guid>
+      <guid>/rladies-website/service/service4/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -85,10 +85,10 @@ This code of conduct applies to all R-Ladies spaces, including meetups, Twitter,
     
     <item>
       <title>Wordpress integration</title>
-      <link>/www.rladies.org/service/service2/</link>
+      <link>/rladies-website/service/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/service/service2/</guid>
+      <guid>/rladies-website/service/service2/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

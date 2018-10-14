@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on R-Ladies Global Website</title>
-    <link>/www.rladies.org/service/</link>
+    <link>/rladies-website/service/</link>
     <description>Recent content in Services on R-Ladies Global Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/www.rladies.org/service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/rladies-website/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Application development</title>
-      <link>/www.rladies.org/service/service3/</link>
+      <link>/rladies-website/service/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/service/service3/</guid>
+      <guid>/rladies-website/service/service3/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -23,10 +23,10 @@
     
     <item>
       <title>Custom website design</title>
-      <link>/www.rladies.org/service/service1/</link>
+      <link>/rladies-website/service/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/service/service1/</guid>
+      <guid>/rladies-website/service/service1/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -34,10 +34,10 @@
     
     <item>
       <title>SEO &amp; SEM services</title>
-      <link>/www.rladies.org/service/service4/</link>
+      <link>/rladies-website/service/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/service/service4/</guid>
+      <guid>/rladies-website/service/service4/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -45,10 +45,10 @@
     
     <item>
       <title>Wordpress integration</title>
-      <link>/www.rladies.org/service/service2/</link>
+      <link>/rladies-website/service/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/www.rladies.org/service/service2/</guid>
+      <guid>/rladies-website/service/service2/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
