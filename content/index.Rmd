@@ -1,0 +1,62 @@
+---
+title: ''
+author: "R-Ladies"
+date: '2018-12-06'
+slug: 'index'
+categories: R-Ladies
+tags:
+- Chapters
+- R-Ladies
+class: "profile-page"
+description: |
+            <div class="container">
+                <div class="content-center">
+                    <div class="photo-container rounded img-raised">
+                        <img src="/img/logo.png" alt="Logo">
+                    </div>
+                    <h3 class="title">R-Ladies Global</h3>
+                    <p class="category">R-LADIES IS A WORLD-WIDE ORGANIZATION TO PROMOTE GENDER DIVERSITY IN THE R COMMUNITY</p>
+                </div>
+            </div>
+---
+
+## Meetup locations 
+
+Here is a list of locations of currently active R-Ladies meetup groups:
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+
+library(purrr)
+library(dplyr)
+library(kableExtra)
+```
+
+
+```{r parse, include=FALSE}
+csv <- 'https://raw.githubusercontent.com/rladies/starter-kit/master/Current-Chapters.csv'
+chapters <- readr::read_csv(csv) %>%
+  filter(Status == 'Active') %>%
+  select(Country, `State/Region`, City, Meetup) %>%
+  rename(MeetupLink = Meetup)
+
+```
+
+```{r content, echo=F}
+
+render_link <- function(word, link) {
+   link <- paste0("[", word, "](", link, ")")
+   return(tibble(Meetup = link))
+}
+
+links <- bind_cols(chapters, map2_dfr(chapters$City, chapters$MeetupLink, render_link))
+links %>%
+  select(Country, Meetup) %>%
+  rename(City = Meetup) %>%
+  kable(align = "rl") %>%
+  kable_styling(full_width = F) %>%
+  column_spec(1, bold = T) %>%
+  collapse_rows(columns = 1:2, valign = "top")
+```
+
+If you are interested in starting an R-Ladies meetup group in your city, or would like more information about starting a meetup group, reach out at **info**[at]**rladies**[dot]**org**
