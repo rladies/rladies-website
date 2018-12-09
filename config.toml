@@ -6,7 +6,7 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 #enableGitInfo = true
-publishDir = "public"
+publishDir = "docs"
 disableKinds = ["taxonomy", "taxonomyTerm", "category", "sitemap", "RSS", "404", "robotsTXT", "home", "section"]
 
 [permalinks]
