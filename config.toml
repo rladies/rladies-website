@@ -1,5 +1,5 @@
 theme = "hugo-now-ui"
-baseurl = "/"
+baseurl = "https://rladies.github.io/rladies-website"
 languageCode = "en-us"
 title = "R-Ladies Global"
 googleAnalytics = ""
