@@ -12,7 +12,7 @@ description: |
             <div class="container">
                 <div class="content-center">
                     <div class="photo-container rounded img-raised">
-                        <img src="/img/logo.png" alt="Logo">
+                        <img src="rladies-website/img/logo.png" alt="Logo">
                     </div>
                     <h3 class="title">R-Ladies Global</h3>
                     <p class="category">R-LADIES IS A WORLD-WIDE ORGANIZATION TO PROMOTE GENDER DIVERSITY IN THE R COMMUNITY</p>
